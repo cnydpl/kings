@@ -1,0 +1,8 @@
+{
+  "name": "kings",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "dc7c377b"
+}
